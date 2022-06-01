@@ -25,7 +25,6 @@ request body
     "avaliaçao": 0.0,
     "lancamento": "2020-10-00",
     "disponivel": true,
-    "imagem": "",
     "usuario": 0
 }
 
@@ -38,7 +37,6 @@ response (200)
     "avaliaçao": 0.0,
     "lancamento": "2020-10-00",
     "disponivel": true,
-    "imagem": "",
     "usuario": 0
 }
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
